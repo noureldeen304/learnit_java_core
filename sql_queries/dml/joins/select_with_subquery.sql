@@ -1,1 +1,0 @@
-SELECT * FROM user WHERE money > (SELECT AVG(money) FROM user);

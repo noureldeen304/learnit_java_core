@@ -1,1 +1,0 @@
-SHOW FUNCTION STATUS WHERE db = 'learn_it_db';  

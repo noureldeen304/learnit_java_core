@@ -1,1 +1,0 @@
-SELECT * FROM user ORDER BY last_name DESC, first_name DESC;
