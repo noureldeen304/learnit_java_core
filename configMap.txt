@@ -1,3 +1,0 @@
-discount=0.07
-database.user=testUser
-database.password=testPassword
