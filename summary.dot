@@ -1,6 +1,0 @@
-digraph "summary" {
-  "jarexport.jar"                                    -> "java.base (java.base)";
-  "jarexport.jar"                                    -> "java.desktop (java.desktop)";
-  "jarexport.jar"                                    -> "java.sql (java.sql)";
-  "jarexport.jar"                                    -> "not found";
-}
