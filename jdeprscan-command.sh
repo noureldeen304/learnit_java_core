@@ -1,1 +1,0 @@
-jdeprscan jarexport.jar
