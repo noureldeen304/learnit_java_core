@@ -1,1 +1,0 @@
-jdeps -dotoutput . -recursive --class-path "C:\Users\Andrey Pyatakha\Downloads" jarexport.jar
